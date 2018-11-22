@@ -1,4 +1,4 @@
-# udemy-first
+# nuxt Playground
 
 > My well-made Nuxt.js project
 
